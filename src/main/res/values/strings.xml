@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">App_Mascotas</string>
+    <string name="txt_boton1">Iniciar</string>
+    <string name="txt_boton2">Registrar</string>
+    <string name="txt_boton3">Confirmar</string>
+    <string name="txt_boton4">Agdpaseo</string>
+    <string name="txt_boton5">Paseadores</string>
+    <string name="txt_boton6">Ubicacion</string>
+    <string name="txt_boton7">Informacion</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>

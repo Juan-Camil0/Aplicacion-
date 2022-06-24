@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537997276498",
+    "project_id": "app-mascotas-47cfd",
+    "storage_bucket": "app-mascotas-47cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537997276498:android:0ce597e3536de6a7d3b68b",
+        "android_client_info": {
+          "package_name": "com.example.app_mascotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537997276498-h1d2t2sdm2bg45a3ckkth4vo90e4vsh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-xE64HzD-J7dzu2s3ND0K1q1WCAZVuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537997276498-h1d2t2sdm2bg45a3ckkth4vo90e4vsh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

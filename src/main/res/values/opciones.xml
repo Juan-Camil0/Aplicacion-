@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipo_paseo">
+        <item>Seleccione</item>
+        <item>Paseos Higiénicos</item>
+        <item>Paseos De Socialización</item>
+        <item>Paseos Deportivos</item>
+    </string-array>
+
+    <string-array name="horas">
+        <item>Seleccione</item>
+        <item>Media hora</item>
+        <item>Una hora</item>
+        <item>Hora y Media</item>
+        <item>Dos horas</item>
+    </string-array>
+
+
+</resources>
